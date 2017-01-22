@@ -4,6 +4,6 @@
  */
 public class Test {
 	public void aa(){
-		System.out.println("aaa");
+		System.out.println("fffffffaaa222");
 	}
 }
